@@ -3,10 +3,10 @@ kind: ConsoleNotification
 metadata:
   name: welcome-banner
 spec:
-  backgroundColor: '#EE0000'
+  backgroundColor: '#fc0fc0'
   color: '#fff'
   link:
     href: https://www.redhat.com/en/summit
     text: (Event Information)
   location: BannerTop
-  text: Welcome to Red Hat Summit 2023!
+  text: Things are only impossible until they're not!
